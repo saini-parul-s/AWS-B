@@ -1,1 +1,1 @@
-# AWS-B
+# AWS-Polymer-BE
